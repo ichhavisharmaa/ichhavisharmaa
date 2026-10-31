@@ -1,5 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+Hi, I’m Chhavi Sharma, a Computer Science undergraduate with a strong foundation in Java, Spring Boot, Hibernate, and backend development. I am passionate about designing and building efficient, scalable, and technology-driven solutions to address real-world challenges.
+
+I have hands-on experience developing projects such as:
+
+- **Kumbh Seva:** An RFID-based crowd and asset management system that enables real-time tracking, enhances public safety, and improves coordination at large-scale events.
+- **Smart Farming Application:** A solution designed to support farmers through real-time crop monitoring, weather insights, and productivity planning.
+- **Campus Issue Resolving System:** A web-based platform that simplifies campus issue reporting and streamlines the resolution process.
+
+I am eager to leverage my technical knowledge, problem-solving abilities, and willingness to learn in a software development role where I can contribute to meaningful projects, continuously improve my skills, and grow as a developer.
 
 
 ## 🌐 Socials:
@@ -12,10 +20,6 @@
 ![](https://streak-stats.demolab.com/?user=ichhavisharmaa&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ichhavisharmaa&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ichhavisharmaa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://komarev.com/ghpvc/?username=ichhavisharmaa&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
