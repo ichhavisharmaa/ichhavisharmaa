@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I’m Chhavi Sharma, a Computer Science undergraduate with a strong foundation in Java, Spring Boot, Hibernate, and backend development. I am passionate about designing and building efficient, scalable, and technology-driven solutions to address real-world challenges.
 
 I have hands-on experience developing projects such as:
